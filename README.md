@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 :zap:Abogado y estudiante <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaxSayes&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
+
   
